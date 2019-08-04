@@ -1,4 +1,4 @@
-int main()
+int main()+
 {
   int i;
   for (i = 0; i < 10; i++)
@@ -7,7 +7,7 @@ int main()
   }
   return 0;
 }
-int main()
+int main()+
 {
   int i;
   for (i = 0; i < 10; i++)
@@ -24,7 +24,7 @@ int main()
     printf("Hello Holberton\n")
   int i;
   for (i = 0; i < 10; i++)
-  {
+  {+++
     printf("Hello Holberton\n");
   }
   return 0;
